@@ -4,4 +4,6 @@ The original link to colab notbook for this demo version is available at: https:
 
 Here are some spectrogram outputs of synthesized audio  
 ![Beethoven](https://user-images.githubusercontent.com/43045590/127730619-41c13a45-1d56-4cbb-8f5f-539ec2be7587.png)  
+Interpolation output of different random instruments  
+![Beethoven Interpolation](https://user-images.githubusercontent.com/43045590/127730719-7a7b6c48-d3f6-4394-b4ac-56ecceaa59ce.png)
 
