@@ -7,5 +7,7 @@ Here are some spectrogram outputs of synthesized audio for Beethoven
 Interpolation output of different random instruments  
 ![Beethoven Interpolation](https://user-images.githubusercontent.com/43045590/127730719-7a7b6c48-d3f6-4394-b4ac-56ecceaa59ce.png)  
 Interpolation between and among several latent vectors equally spaced in time  
-![random interpolation](https://user-images.githubusercontent.com/43045590/127730820-98b88ab0-6bcd-4dd5-8391-4888b0195640.png)
+![random interpolation](https://user-images.githubusercontent.com/43045590/127730820-98b88ab0-6bcd-4dd5-8391-4888b0195640.png)  
+Generated Audio  
+https://user-images.githubusercontent.com/43045590/127731154-3ad4e241-8350-4f40-8ab2-1391d5bcfcd5.mp4
 
